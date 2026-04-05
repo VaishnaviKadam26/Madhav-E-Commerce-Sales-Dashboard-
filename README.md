@@ -1,7 +1,7 @@
 # 🛒 Madhav E-Commerce Sales Dashboard (Tableau)
 
 ## Overview
-An interactive Tableau dashboard built to track and analyze online sales data with dynamic filters, slicers, and 10+ visualization types.
+An interactive PowerBi dashboard built to track and analyze online sales data with dynamic filters, slicers, and 10+ visualization types.
 
 ## Features
 - Interactive filters and slicers for drill-down analysis
